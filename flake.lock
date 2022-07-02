@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656298128,
-        "narHash": "sha256-GnQYd1JeLs5RVuFe9hKuRTJRCLnWlMBJQvpyW8CEHw0=",
+        "lastModified": 1656301282,
+        "narHash": "sha256-lhRBi7+ARy7LnfCC9A2OJ4AzRNhw8iV5E728Vvl4+X8=",
         "owner": "nim-nix-pkgs",
         "repo": "subexes",
-        "rev": "32c1824af83c47c09907db31dce5f52d6e94d18c",
+        "rev": "c7e1ee24b1757530d0c07aadec992c4186e2f54c",
         "type": "github"
       },
       "original": {
